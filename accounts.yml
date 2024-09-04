@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome to BBbank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@BBbank.org"
+  onCallSupport:
+    - (+234)8021168991
+    - (+234)8156933445
+
+
