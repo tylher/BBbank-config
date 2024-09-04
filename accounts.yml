@@ -5,7 +5,7 @@ accounts:
   message: "welcome to BBbank accounts related local APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@BBbank.org"
+    email: "{cipher}9a764554c2f7ae7f04c8048a6e31e7095cab15c73b01e36a26456c2b7c213cee"
   onCallSupport:
     - (+234)8021168991
     - (+234)8156933445
