@@ -1,5 +1,5 @@
 accounts:
-  message: "welcome to BBbank accounts related prod APIs"
+  message: "welcome to BBbank accounts related production APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}44f751b9f2530de32f69ec84c9cc30d10578756896edbbb7dd9baf987529d3bd"
