@@ -1,2 +1,11 @@
+accounts:
+  message: "welcome to BBbank accounts related prod APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "{cipher}44f751b9f2530de32f69ec84c9cc30d10578756896edbbb7dd9baf987529d3bd"
+  onCallSupport:
+    - (+234)8021168991
+    - (+234)8156933445
+
 build:
   version: "2.0"
